@@ -1,0 +1,24 @@
+{
+    "id": "0B52141D",
+    "path": "~/website/website_hugo/config/_default/menus.toml",
+    "project_path": "config/_default/menus.toml",
+    "type": "toml",
+    "hash": "2380725184",
+    "contents": "",
+    "dirty": false,
+    "created": 1596642155580.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "12,15",
+        "scrollLine": "7"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596645712,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596645712635,
+    "read_only": false,
+    "read_only_alternatives": []
+}

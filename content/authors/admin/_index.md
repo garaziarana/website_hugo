@@ -17,9 +17,9 @@ email: "garaziarana@gmail.com"
 interests:
 - Neuroscience
 - Science education
-- Environmental issues
+- AI ethics
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 role: Neuroscientist and educator
 social:
@@ -29,17 +29,11 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/garaziarana
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=SETe2yQAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/garaziarana
 superuser: true
 title: Garazi Araña Oiarbide
-user_groups:
-- Researchers
-- Visitors
 ---
 Garazi is a neurocientist...
 
